@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #FEDABA;
+}
+.banner{
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+}
+.todo-div{
+    margin: 40px auto;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+}
+.todo-input{
+    width: 80%;
+    padding: 17px;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 20px;
+}
+.fas ,.far{
+    /* border: 1px solid ; */
+    padding: 10px;
+    border-radius:10px ;
+    background: none;
+    color: wheat;
+    font-size: 20px;
+}
+li button{
+    border-radius:10px ;
+    border: none;
+    background-color:wheat;
+    margin: 0 10px;
+
+
+}.todo-main button{
+    
+    border-radius:10px ;
+    border: none;
+    background-color: black;
+}
+li .fas{
+    font-size: 20px;
+    padding: 10px;
+    color: black;
+
+}
+ol li{
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.todo-list{
+    margin: 0 auto;
+    text-align: center;
+    width: 40%;
+    height: 50%;
+}
+li{
+    background-color: rgba(165, 42, 42, 0.801);
+    padding: 10px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
